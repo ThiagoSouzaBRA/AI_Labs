@@ -10,7 +10,7 @@
 
 <img  src="https://i.imgur.com/bzkraC6.png " width="180px" height="180px">
 
-###CineHome
+##CineHome
 
 Assista a seus filmes favoritos onde e com quem quiser na CineHome, você também pode compartilhar salas com seus amigos, familiares ou com a pessoa que gosta, ao alugar um filme você tem até 48 horas para assistir quantas vezes quiser, que poderá ser extendido de acordo com a sua vontade mediante a escolha de um plano ou uma compra avulsa.
 
