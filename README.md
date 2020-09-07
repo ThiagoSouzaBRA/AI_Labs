@@ -8,6 +8,7 @@
 
 ## 📗 Projeto
 
+<a href="./casodeuso.pdf">Diagrama - caso de uso</a>
 
 <h2>🎞️ CineHome</h2>
 <img  src="https://i.imgur.com/bzkraC6.png " width="150px" height="150px">
