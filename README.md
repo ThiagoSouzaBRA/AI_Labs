@@ -33,7 +33,7 @@ Assista a seus filmes favoritos onde e com quem quiser na CineHome, você també
 > estudante de Ciências da Computação voltado para AI,
 > entusiasta de tecnologia e aprendiz de musico nas horas vagas.
 
-👨‍💻 **Luan Datamato - <Luandamato@gmail.com>**
+👨‍💻 **Luan Damato - <Luandamato@gmail.com>**
 
 <img src="https://i.imgur.com/mnedJAQ.jpg " width="180px" height="180px">
 
